@@ -1,10 +1,10 @@
 package com.example.cryptocurrency.domain.repository
 
-import com.example.cryptocurrency.data.remote.dto.CoinDetailDto
-import com.example.cryptocurrency.data.remote.dto.CoinDto
+import com.example.cryptocurrency.domain.model.Coin
+import com.example.cryptocurrency.domain.model.CoinDetail
 
 
 interface CoinRepository {
-  suspend fun getCoins() : List<CoinDto>
-  suspend fun getCoinById(coinId:String): CoinDetailDto
+  suspend fun getCoins() : List<Coin>
+  suspend fun getCoinById(coinId:String): CoinDetail
 }
