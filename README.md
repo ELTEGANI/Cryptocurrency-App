@@ -8,7 +8,7 @@ Android app that displays a list of cryptocurrencies with their details.
 
 - [MVVM](https://developer.android.com/jetpack/guide?gclid=CjwKCAjwp_GJBhBmEiwALWBQk1owtAt-_GofEWOEfTFbUSnFwVrSBYjPI79ne6TNg6hgdIBrKlghMBoCD10QAvD_BwE&gclsrc=aw.ds)   MVVM Architecture (Model - View - ViewModel)
 - [Clean-architecture](https://www.raywenderlich.com/3595916-clean-architecture-tutorial-for-android-getting-started) MVVM with Clean Architecture is pretty good in such cases. It goes one step further in separating the responsibilities of your code base.
-- [Jetpack Compose](https://developer.android.com/jetpack/compose?gclid=CjwKCAjwp_GJBhBmEiwALWBQky8AeNwcOvTsnGOMhZwBOKXNtzEV0rYpLRchJpoMeaJ2pbYp-JxzbxoCS1oQAvD_BwE&gclsrc=aw.ds) Modern design practices, Jetpack libraries enable fewer crashes and memory leaks. Describe your UI, and Compose takes care of i.
+- [Jetpack Compose](https://developer.android.com/jetpack/compose?gclid=CjwKCAjwp_GJBhBmEiwALWBQky8AeNwcOvTsnGOMhZwBOKXNtzEV0rYpLRchJpoMeaJ2pbYp-JxzbxoCS1oQAvD_BwE&gclsrc=aw.ds) Modern design practices, Jetpack libraries enable fewer crashes and memory leaks. Describe your UI.
 - [kotlin](https://developer.android.com/kotlin?gclid=CjwKCAjwp_GJBhBmEiwALWBQkxkmTa4zClljSKWZm5xUmt5cWJo0zE4f24zmZW1uVLP6cHeF9BnjOxoCRYEQAvD_BwE&gclsrc=aw.ds) Modern, concise and safe programming language. Easy to pick up, so you can create powerful applications immediately
 - [Dagger - Hilt](https://developer.android.com/training/dependency-injection/hilt-android) dependency injection.
 - [Retrofit](https://square.github.io/retrofit/) construct the REST APIs.
