@@ -1,7 +1,7 @@
 <h1 align="center">Cryptocurrency-App</h1>
 
 <p align="center">
-Android app that displays a list of cryptocurrencies with their details. using [coinpaprika](https://api.coinpaprika.com/)
+Android app that displays a list of cryptocurrencies with their details. using https://api.coinpaprika.com/
 </p>
 
 <img src="https://user-images.githubusercontent.com/5574608/132945483-87acbc35-b7f8-48f4-8e21-9907f82b4b39.gif" align="right" width="32%"/>
