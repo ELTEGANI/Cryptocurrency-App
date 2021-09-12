@@ -22,7 +22,8 @@ class CoinDetailViewModel @Inject constructor(
     val state : State<CoinDetailState> = _state
 
     init {
-        savedStateHandle.get<String>(PARAM_COIN_ID)?.let {coinId->
+        savedStateHandle.get<String>(PARAM_COIN_ID)?.let {
+                coinId->
             getCoin(coinId)
         }
     }
@@ -43,4 +44,5 @@ class CoinDetailViewModel @Inject constructor(
             }
         }.launchIn(viewModelScope)
     }
+
 }
