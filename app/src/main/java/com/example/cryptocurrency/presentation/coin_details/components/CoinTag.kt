@@ -1,6 +1,5 @@
 package com.example.cryptocurrency.presentation.coin_details.components
 
-import android.view.RoundedCorner
 import androidx.compose.foundation.border
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.padding
