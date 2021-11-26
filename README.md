@@ -1,4 +1,4 @@
-<h1 align="center">Cryptocurrency-App</h1>
+<h1 align="center">Cryptocurrency-App using Jetpack Compose</h1>
 
 <p align="center">
 Android app that displays a list of cryptocurrencies with their details. using https://api.coinpaprika.com/
